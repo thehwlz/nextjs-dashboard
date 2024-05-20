@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/.pnp
+/.pnpnpm i @vercel/postgres
 .pnp.js
 
 # testing
